@@ -1,4 +1,4 @@
-# Ada-Yaz-l-m-API
+# Train-ticketing-API
 
 In order to run this API "node app.js" command needs to be executed from the project folder. JSON object also can be post using "node post.js" command with following object structure below provided in the file.
 
